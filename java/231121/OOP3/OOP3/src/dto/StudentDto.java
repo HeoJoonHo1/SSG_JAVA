@@ -2,6 +2,7 @@ package dto;
 
 // Data Transfer Object : 데이터 단위의 클래스
 // Value Object : VO
+//test
 public class StudentDto {
 	// 학생의 항목들
 	private String name;
