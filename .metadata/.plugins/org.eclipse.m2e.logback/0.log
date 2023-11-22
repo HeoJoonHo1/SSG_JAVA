@@ -3,3 +3,4 @@
 2023-11-22 10:26:53,693 [Worker-75: Cloning from https://github.com/HeoJoonHo1/SSG_JAVA.git] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Project\SSG_Y_JAVA\.git]
 2023-11-22 10:56:13,761 [Framework stop - Equinox Container: f32bbc5e-f225-4e60-adb2-228da66e6415] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\USER\git\SSG_JAVA\.git]
 2023-11-22 10:56:39,041 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-11-22 11:06:43,067 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
