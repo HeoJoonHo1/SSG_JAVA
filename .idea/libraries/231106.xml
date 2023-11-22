@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="231106">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/java/231106/Random.zip!/" />
+      <root url="jar://$PROJECT_DIR$/java/231106/StringClass.zip!/" />
+      <root url="jar://$PROJECT_DIR$/java/231106/Array.zip!/" />
+      <root url="jar://$PROJECT_DIR$/java/231106/WrapperClass.zip!/" />
+      <root url="jar://$PROJECT_DIR$/java/231106/Array2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/java/231106/Bit.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

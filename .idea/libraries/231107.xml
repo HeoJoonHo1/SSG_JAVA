@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="231107">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/java/231107/Work3.zip!/" />
+      <root url="jar://$PROJECT_DIR$/java/231107/continue.zip!/" />
+      <root url="jar://$PROJECT_DIR$/java/231107/switch.zip!/" />
+      <root url="jar://$PROJECT_DIR$/java/231107/for.zip!/" />
+      <root url="jar://$PROJECT_DIR$/java/231107/break.zip!/" />
+      <root url="jar://$PROJECT_DIR$/java/231107/if.zip!/" />
+      <root url="jar://$PROJECT_DIR$/java/231107/while.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
