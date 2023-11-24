@@ -28,5 +28,6 @@ public class Point3D {
 		//(2) 인스턴스변수 x, y, z의 내용을 출력하도록 오버라이딩하시오.
 		return "Point3D [x=" + x + ", y=" + y + ", z=" + z + "]";
 	}
+	// 테스트
 	
 }
