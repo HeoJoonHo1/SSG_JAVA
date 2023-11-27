@@ -29,5 +29,5 @@ public class Point3D {
 		return "Point3D [x=" + x + ", y=" + y + ", z=" + z + "]";
 	}
 	// 테스트
-	
+	//한번더 테스트
 }
