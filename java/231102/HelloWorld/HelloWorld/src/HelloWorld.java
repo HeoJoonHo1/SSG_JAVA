@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-
-
-
-=======
->>>>>>> 8f5a7e2c03336af0e1c570a98da7d95eb8f316e6
 public class HelloWorld {
 
 	public static void main(String[] args) {
