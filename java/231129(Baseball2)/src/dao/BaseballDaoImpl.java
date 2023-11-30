@@ -309,10 +309,6 @@ public class BaseballDaoImpl implements BaseballDao{
 				BatterDto b2 = batlist.get(j);
 				
 				if(b1.getHitAvg() < b2.getHitAvg()) {	// 내림차순
-//					temp = batlist.get(i);
-//					batlist.get(i) = batlist.get(j);
-//					b2 = temp;
-					
 					temp = batlist.get(i);
 					batlist.set(i, batlist.get(j));
 					batlist.set(j, temp);
