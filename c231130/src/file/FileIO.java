@@ -12,7 +12,7 @@ import java.io.PrintWriter;
 import dto.StudentDto;
 import singleton.SingletonClass;
 
-public class FileIO {
+public class FileIO{
 		
 	public static void save(String filename) {
 		File file = new File("c:\\tmp\\" + filename + ".txt");
